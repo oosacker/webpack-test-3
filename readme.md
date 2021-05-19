@@ -1,4 +1,4 @@
 Webpack tutorial
 
-https://www.valentinog.com/blog/webpack/
-
+Basic setup: https://www.valentinog.com/blog/webpack/
+Vue setup: https://dev.to/lavikara/setup-vue-webpack-and-babel-boo
